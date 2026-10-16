@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Update the host below if you publish on a different domain.
+Sitemap: https://www.gmscpl.com/sitemap.xml

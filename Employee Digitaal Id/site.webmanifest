@@ -1,0 +1,14 @@
+{
+  "name": "GMSCPL — Digital Employee ID Cards",
+  "short_name": "GMSCPL",
+  "description": "Digital employee ID cards for GLOBAL MANAGEMENT SYSTEMS CERTIFICATION PRIVATE LIMITED (GMSCPL).",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0c2348",
+  "theme_color": "#0c2348",
+  "icons": [
+    { "src": "assets/images/logo.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
